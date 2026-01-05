@@ -1,0 +1,7 @@
+{
+  "name": "IET DAVV Digital Library",
+  "description": "Official E-Library for the Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya. Specialized for B.Tech engineering students.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
